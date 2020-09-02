@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome to my github homepage, enjoy it.
+### Hi Buddy 👋, Welcome to my github homepage, enjoy it.
 
 <!--
 **zxyle/zxyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
